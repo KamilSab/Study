@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Study"
 include(":app")
- 
+include(":homework2")
