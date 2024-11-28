@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">homework3</string>=
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="past_question_text">Прошлый вопрос</string>
+    <string name="next_question_text">Следующий вопрос</string>
+    <string name="not_all_answers">Ответьте на все вопросы!</string>
+    <string name="ended_text">Результаты сохранены</string>
+    <string name="next">Следующий</string>
+    <string name="finish">Завершить</string>
+</resources>
