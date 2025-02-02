@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">homework4</string>
+    <string name="input_text">Введите текст</string>
+    <string name="notification_title">Заголовок уведомления</string>
+    <string name="notification_message">Текст уведомления</string>
+    <string name="show_notification">Показать уведомление</string>
+    <string name="reset_color">Сбросить цвет</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
